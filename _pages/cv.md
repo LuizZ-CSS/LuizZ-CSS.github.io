@@ -11,32 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2022 (expected)
+* B.S.E. in Computer Engineering, University of Michigan, 2022 (expected)
+* Minor in Mathematics
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 Summer: Software Developer Intern
+  * ContextLogic.Inc
+  * Duties included: writing backend API; designing and implementing frontend UI;
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Tools:
+  * Cadence Virtuoso
+  * LTSpice
+  * Git
+  * Jenkins
+  * MATLAB
+* Programming Languages:
+  * C
+  * C++
+  * Python
+  * Javascript
+  * Verilog
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -46,7 +47,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -56,4 +57,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Officer, UM-SJTU Joint Institute Student Association, Department of Propaganda
+* Assistant, UM-SJTU Joint Institute Undergraduate Affair Office
+* Volunteer at "Student Buddy" Program, UM-SJTU Joint Institute, International Program Office

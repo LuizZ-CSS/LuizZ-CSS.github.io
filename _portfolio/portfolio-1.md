@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Profile Picture"
+excerpt: "My personal profile, draw by Autodesk Sketchbook, a historical figure of the Eastern Romen Empire <br/><img src='/images/profile.png'>"
 collection: portfolio
 ---
 
