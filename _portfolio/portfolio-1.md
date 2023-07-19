@@ -1,6 +1,6 @@
 ---
 title: "Profile Picture"
-excerpt: "My personal profile, draw by Autodesk Sketchbook, a historical figure of the Eastern Romen Empire <br/><img src='/images/profile.png'>"
+excerpt: "My photo taken at my undergraduate graduation. <br/><img src='/images/profile_photo.png'>"
 collection: portfolio
 ---
 
