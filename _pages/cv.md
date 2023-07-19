@@ -25,6 +25,7 @@ Work experience
   * ContextLogic.Inc
   * Duties: writing backend API; designing and implementing frontend UI;
   
+<!--
 Skills
 ======
 * Software Tools:
@@ -38,7 +39,7 @@ Skills
   * Python
   * Javascript
   * Julia
-
+-->
 
 Publications
 ======
@@ -63,3 +64,7 @@ Service and leadership
 * Officer, UM-SJTU Joint Institute Student Association, Department of Propaganda
 * Assistant, UM-SJTU Joint Institute Undergraduate Affair Office
 * Volunteer at "Student Buddy" Program, UM-SJTU Joint Institute, International Program Office
+
+Further Details
+======
+You may view my detailed curriculum vitae via this [link](https://drive.google.com/file/d/1cQ8c-JG4oz7NJfvTTuMhXb5j0EEdpr2L/view?usp=drive_link).
