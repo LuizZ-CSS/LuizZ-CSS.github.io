@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Louise Zhu / About"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://constConstantinople.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yufei \" Louise\" Zhu"
+description              : &description "M.S.E @umich, B.S.E@(umich + sjtu); novice in computational social science research"
+url                      : https://LuizZ-CSS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "constConstantinople/constConstantinople.github.io"
+repository               : "LuizZ-CSS/LuizZ-CSS.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yufei (Louise) Zhu"
-  avatar           : "profile.png"
-  bio              : "CE Student @Umich, minor in mathematics"
+  name             : "Yufei \"Louise\" Zhu"
+  avatar           : "profile_photo.png"
+  bio              : "M.S.E ECE@UMICH, B.S.E CE@UMICH, B.S.E ECE@SJTU. Minor in Math and Complex Systems. Novice in computational social science research."
   location         : "Michigan, United States"
-  employer         :
+  employer         : "University of Michigan"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "constConstantinople"
+  github           : "LuizZ-CSS"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yufei-louise-zhu-7a8630207/"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yufei-louise-zhu-umich/"
+  orcid            : "https://orcid.org/0000-0003-1166-2133"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
