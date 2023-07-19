@@ -1,6 +1,6 @@
 ---
 title: "Profile Picture"
-excerpt: "My photo taken at my undergraduate graduation. <br/><img src='/images/profile_photo.png'>"
+excerpt: "My photo taken at my undergraduate graduation. <br/><img src='/images/profile_photo.jpg'>"
 collection: portfolio
 ---
 
