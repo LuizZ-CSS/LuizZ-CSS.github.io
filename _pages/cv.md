@@ -11,15 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2022 (expected)
-* B.S.E. in Computer Engineering, University of Michigan, 2022 (expected)
-* Minor in Mathematics
+* M.S.E in Electrical and Computer Engineering, Minor in Complex Systems, University of Michigan (2024, expected)
+* B.S.E. in Computer Engineering *Magna Cum Laude*, Minor in Mathematics, University of Michigan (2022)
+* B.S.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University (2022)
 
 Work experience
 ======
-* 2021 Summer: Software Developer Intern
+* Research Assistant (2023)
+  * University of Michigan
+  * Duties: Conduct simulation experiments and data processing at School of Information
+
+* Software Developer Intern (2021)
   * ContextLogic.Inc
-  * Duties included: writing backend API; designing and implementing frontend UI;
+  * Duties: writing backend API; designing and implementing frontend UI;
   
 Skills
 ======
@@ -30,20 +34,19 @@ Skills
   * Jenkins
   * MATLAB
 * Programming Languages:
-  * C
   * C++
   * Python
   * Javascript
-  * Verilog
+  * Julia
 
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
