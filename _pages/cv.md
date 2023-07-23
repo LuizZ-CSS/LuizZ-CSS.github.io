@@ -66,7 +66,7 @@ Service and leadership
 * Volunteer, UM-SJTU Joint Institute, International Program Office
 * Photographer and writer, UM-SJTU Joint Institute, International Program Office
 
-<!--Further Details
+Further Details
 ======
 You may view my detailed curriculum vitae via this [link](https://drive.google.com/file/d/1cQ8c-JG4oz7NJfvTTuMhXb5j0EEdpr2L/view?usp=drive_link).
--->
+
