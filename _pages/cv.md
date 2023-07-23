@@ -39,7 +39,7 @@ Skills
   * Python
   * Javascript
   * Julia
--->
+
 
 Publications
 ======
@@ -47,7 +47,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -63,8 +63,10 @@ Service and leadership
 ======
 * Officer, UM-SJTU Joint Institute Student Association, Department of Propaganda
 * Assistant, UM-SJTU Joint Institute Undergraduate Affair Office
-* Volunteer at "Student Buddy" Program, UM-SJTU Joint Institute, International Program Office
+* Volunteer, UM-SJTU Joint Institute, International Program Office
+* Photographer and writer, UM-SJTU Joint Institute, International Program Office
 
-Further Details
+<!--Further Details
 ======
 You may view my detailed curriculum vitae via this [link](https://drive.google.com/file/d/1cQ8c-JG4oz7NJfvTTuMhXb5j0EEdpr2L/view?usp=drive_link).
+-->
