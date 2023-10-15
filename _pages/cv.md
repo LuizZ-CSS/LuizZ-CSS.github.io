@@ -65,6 +65,7 @@ Service and leadership
 * Assistant, UM-SJTU Joint Institute Undergraduate Affair Office
 * Volunteer, UM-SJTU Joint Institute, International Program Office
 * Photographer and writer, UM-SJTU Joint Institute, International Program Office
+* ECE Ambassador, Dept. of Electrical and Computer Engineering, Univ. of Michigan
 
 Further Details
 ======
