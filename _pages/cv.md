@@ -68,5 +68,5 @@ Service and leadership
 
 Further Details
 ======
-You may view my detailed curriculum vitae via this [link](https://drive.google.com/file/d/1iFjg6aCST6Adsr20sBbxjobNwB0y_bLv/view?usp=sharing).
+You may view my detailed curriculum vitae via this [link](https://drive.google.com/file/d/1rVWZqVo0rPLN0mGZUyGDqh6Br1cfT9df/view?usp=sharing).
 
